@@ -1,14 +1,10 @@
-# TOH-Merch
-eeeeeeeeeeeee.................. CSS kullansaydım keşke....
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us</title>
+    <title> TOH Funko Pop Merch</title>
 </head>
 <body>
     <!---  Nav Barı - Başlayacak  --->
@@ -35,10 +31,28 @@ eeeeeeeeeeeee.................. CSS kullansaydım keşke....
         <section>
            <!--- Articles - Başlayacak  --->
            <article>
-                <h1>Hakkımızda</h1>
-                <p>... Bu bir fan sayfasıdır. Göresellerin hiçbiri fiziki olarak gerçekliği yoktur.</p> 
+            <h2>Luz Noceda</h2>
+            <img src="https://i.pinimg.com/564x/47/c7/c5/47c7c50cce1b023c81e23e252286f420.jpg" alt="Luz Noceda">
+            <p>
+                Luz Noceda Funko Pop Fan Design <br> 12$
+            </p>
            </article>
 <hr>
+           <article>
+            <h2>Eda Clawthrone</h2>
+            <img src="https://i.pinimg.com/564x/ba/d3/ca/bad3cadb996c76ffed7b1eb8f696b4cc.jpg" alt="Eda Clawthrone">
+            <p>
+                Eda Clawthrone Funko Pop Fan Design <br> 12$
+            </p>
+           </article>
+<hr>
+           <article>
+            <h2>King</h2>
+            <img src="https://i.pinimg.com/564x/ae/44/d3/ae44d3b1339447a46771219209d13dd7.jpg" alt="King">
+            <p>
+                King Funko Pop Fan Design <br> 12$
+            </p>
+           </article>
            <!--- Articles - Bitecek  --->
         </section>
     <!---  Content - Bitecek  --->
