@@ -1,1 +1,1 @@
-
+Galiba anladım GitHub'u
